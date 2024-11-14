@@ -1,0 +1,12 @@
+D:\LibraryForPractice-feature-3\LibraryDemo\Staff\bin\Debug\net5.0\Staff.deps.json
+D:\LibraryForPractice-feature-3\LibraryDemo\Staff\bin\Debug\net5.0\Staff.dll
+D:\LibraryForPractice-feature-3\LibraryDemo\Staff\bin\Debug\net5.0\ref\Staff.dll
+D:\LibraryForPractice-feature-3\LibraryDemo\Staff\bin\Debug\net5.0\Staff.pdb
+D:\LibraryForPractice-feature-3\LibraryDemo\Staff\obj\Debug\net5.0\Staff.csproj.AssemblyReference.cache
+D:\LibraryForPractice-feature-3\LibraryDemo\Staff\obj\Debug\net5.0\Staff.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryForPractice-feature-3\LibraryDemo\Staff\obj\Debug\net5.0\Staff.AssemblyInfoInputs.cache
+D:\LibraryForPractice-feature-3\LibraryDemo\Staff\obj\Debug\net5.0\Staff.AssemblyInfo.cs
+D:\LibraryForPractice-feature-3\LibraryDemo\Staff\obj\Debug\net5.0\Staff.csproj.CoreCompileInputs.cache
+D:\LibraryForPractice-feature-3\LibraryDemo\Staff\obj\Debug\net5.0\Staff.dll
+D:\LibraryForPractice-feature-3\LibraryDemo\Staff\obj\Debug\net5.0\ref\Staff.dll
+D:\LibraryForPractice-feature-3\LibraryDemo\Staff\obj\Debug\net5.0\Staff.pdb
